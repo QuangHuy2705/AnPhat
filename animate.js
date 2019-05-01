@@ -31,25 +31,12 @@ $(document).ready(function(){
       } // End if
     });
 
-    $("#slideshow > div:gt(0)").hide();
+    $(".owl-carousel").owlCarousel({
+      items:1,
+      loop:true,
+      margin:10,
+      autoplay:true,
+      autoplayTimeout: 4000,
+    });
 
-    setInterval(function() { 
-      $('#slideshow > div:first')
-        .fadeOut(1000)
-        .next()
-        .fadeIn(1000)
-        .end()
-        .appendTo('#slideshow');
-    },  3500);
-
-    $("#slideshow-factory > div:gt(0)").hide();
-
-    setInterval(function() { 
-      $('#slideshow-factory > div:first')
-        .fadeOut(1000)
-        .next()
-        .fadeIn(1000)
-        .end()
-        .appendTo('#slideshow-factory');
-    },  3500);
-  });
+});

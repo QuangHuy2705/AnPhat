@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20190502T110000Z
+DTEND:20190502T120000Z
+DTSTAMP:20190430T075334Z
+ORGANIZER;CN=mikko.hyvarinen@priceff.fi:mailto:mikko.hyvarinen@priceff.fi
+UID:155q37deivsabk3t3pbsm7v4p2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tiina.laisi-puheloinen@priceff.fi;X-NUM-GUESTS=0:mailto:tiina.laisi
+ -puheloinen@priceff.fi
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mikko.hyvarinen@priceff.fi;X-NUM-GUESTS=0:mailto:mikko.hyvarinen@pricef
+ f.fi
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ntquanghuy2705@gmail.com;X-NUM-GUESTS=0:mailto:ntquanghuy2705@gmail
+ .com
+X-MICROSOFT-CDO-OWNERAPPTID:1044059259
+CREATED:20190430T075328Z
+DESCRIPTION:\nWhere: Google Hangouts\, see the link below\n\n\nAgenda:\nInt
+ roduction to Priceff Oy\nIntro to the role\nGet to know each other\n\nAppro
+ x. 30-45 minutes.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the d
+ escription.\n\nThis event has a video call.\nJoin: https://meet.google.com/
+ ihm-nvdp-sah\n+1 260-338-9806 PIN: 495139701#\n\nView your event at https:/
+ /www.google.com/calendar/event?action=VIEW&eid=MTU1cTM3ZGVpdnNhYmszdDNwYnNt
+ N3Y0cDIgbnRxdWFuZ2h1eTI3MDVAbQ&tok=MjYjbWlra28uaHl2YXJpbmVuQHByaWNlZmYuZmkw
+ MzMwY2FlMTk0YzI2YjIyNzU0NTExNWVhOThjYzdkNWU0OTc5YjMx&ctz=Asia%2FHo_Chi_Minh
+ &hl=en_GB&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20190430T075331Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Full-stack Developer - first chat
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
